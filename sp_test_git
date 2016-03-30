@@ -1,0 +1,5 @@
+CREATE OR REPLACE PROCEDURE sp_test_git aS
+begin
+    DBMS_OUTPUT.PUT_LINE('Test funcionali');
+end sp_test_git;
+
